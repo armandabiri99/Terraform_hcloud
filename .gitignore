@@ -39,3 +39,4 @@ terraform.rc
 # Ignore lock.hcl
 *.lock.hcl
 # End of https://www.toptal.com/developers/gitignore/api/terraform
+.DS_Store
